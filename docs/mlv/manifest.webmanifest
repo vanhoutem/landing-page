@@ -1,0 +1,15 @@
+{
+  "name": "LiDAR Viewer",
+  "short_name": "LiDAR",
+  "description": "View COPC point clouds from iCloud Drive in 3D",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#161919",
+  "theme_color": "#013232",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
